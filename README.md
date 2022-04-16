@@ -9,6 +9,9 @@ Microsoft Edge, Brave).
 
 _Bonus:_ Hold Ctrl while selecting a result to copy the URL of this tab.
 
+# Installation
+You will need Alfred 4. Download the workflow archive [Browser.Goto.Tab.alfredworkflow](https://github.com/AhmedSoliman/alfred-goto-tab/releases/download/1.0.0/Browser.Goto.Tab.alfredworkflow)
+
 # License
 **MIT License**
 
